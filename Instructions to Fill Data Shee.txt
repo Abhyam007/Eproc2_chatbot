@@ -1,0 +1,10 @@
+Deatailed Instructions to Fill Data Sheet(Data Collection Form) for Eproc 2.0:	
+Purpose of this data sheet:	This data would be used to create/configure your department on Eproc2.0 platform. Please ensure all the given data from department are correct. The basic format of the data would be verified by Eproc2.0 application. This is highly recommended to validate the data by the department before providing it to Eproc2.0. There are few data which may not be changed once created/configured in Eproc2.0.
+	
+Instructions:	"1 Column in RED is mandatory to fill.
+2. Column alterations (i.e. merging, format change) is strictly not recommended.
+3. For any assistance please contact Mr. Rakesh Kumar ( Rakesh.Kumar1@mjunction.in) Contact: 7605084943,/ Helpdesk (eproc2support@bihar.gov.in); Toll Free Number: 1800 572 6571
+4. Please send the filled file to Vivek Nirala (Manager PMU, BSEDC Ltd) mail id (vivek.nirala@semt.gov.in)."
+	
+Note: 	"In case of any query then please contact to e-Procurement Helpdesk as mentioned below:
+eProc 2.0 Help Desk Address: RJ Complex, 2nd Floor, Opposite Vidyapeeth Institute, Khajpura, Ashiana Road, P.S. - Shastri Nagar, Patna 800 014, Bihar. (supported by mjunction)"

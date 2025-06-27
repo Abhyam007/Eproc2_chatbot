@@ -1,0 +1,58 @@
+FAQs
+Enrolment
+Q1: Do I need to enroll as a Bihar eProcurement Vendor before I can respond to electronic Tenders,
+Pre-Qualifications and Expression of Interest?
+Ans: Interested vendors who wish to respond to electronic Tenders, PQ and EOI will need to enroll a
+Bihar eProcurement Vendors on the Bihar eProcurement Portal before they can login to respond to
+such electronic Tenders, Pre-Qualifications and Expression of Interest.
+
+Q2: Can an individual enroll as a Bihar eProcurement Vendor?
+Ans: Yes, individuals can enroll as Bihar eProcurement Vendor.
+
+Q3: Can overseas vendors enroll as a Bihar eProcurement vendor and trade?
+Ans: Yes, they can. Overseas vendors, upon successful enrollment will receive a eProcurement Login
+ID and password which will be sent to them through email.
+Administration
+Q1: Can I update my own company information?
+Ans: Yes. You can update your own company's basic information by logging in to Bihar
+eProcurement website.
+
+Q2: Can I update my own company's name?
+Ans: You will not be allowed to update your own company's name by logging in to Bihar
+eProcurement website.
+
+Q3: Can I change the authorised representative?
+Ans: Yes, you can change the authorised representative details. The new representative will have to
+login the Bihar eProcurement website and click on “Modify Profile” link to change representative
+details & Encryption Certificate details. You can also use forget password link from Home page to
+reset your password and update the Digital Signature detail.
+Tender
+Q1: What is Live Tender?
+Ans: The tender which are in live stage called Live Tender. Bidder can participate on these tender
+now.
+
+Q2: What is Publish Tender?
+Ans: The tenders are published from department end but the bidding start date is not over. Bidder
+can view the tender details but they are not able to bid for these tender.
+Q3: How can we add a Tender under Favourite Tender tab?
+Ans: Bidder can add any tender in Favourite tender menu by clicking on “Add to Favourite” under
+Action icon. That tender will show under Favourite Tender tab.
+
+Q4: How can we see the Cancelled Tender?
+Ans: If any tender cancel by the department for any reason, it will show under Cancelled Tender
+tab.
+Q5: How can I confirm that I have submitted my bid successfully?
+Ans: Your bid will be shown under Submitted Bid tab and you will received an Acknowledgement
+mail from the system.
+Q6: Can we modify the bid before closing time of the tender?
+Ans: Yes you can modify multiple times of bid before closing time of the tender.
+Q7: How do I know that I have been awarded?
+Ans: You can log on to Bihar eProcurement website to check if you are been awarded for the tender.
+Q8: Is Bid Authorization needed to open the bid?
+Ans: Yes, you have to authorize your bid in stipulated time period for opening the tender.
+Login
+Q1: How can I apply for Bihar eProcurement Login ID?
+Ans: You can fill up the Online Vendor Registration Form. After complete the Vendor Registration
+you have pay Registration Amount online. Your Bihar eProcurement Login ID and password will be
+sent to your e-mail address. If you have the user id of eproc1 then you can use the same and system
+will fetch the registration validity accordingly

@@ -1,0 +1,98 @@
+System Requirement – eProcurement System 2.0
+
+1. Background:
+The purpose of this manual is to provide necessary guidance on the Pre-requisite and System
+Settings to be done to access e-procurement application.
+1.1 Intended Audience
+This document is intended for following users.
+ Vendors and Buyers
+1.2 Abbreviations
+Sl. no Short Name Full Name
+1 DSC Digital Signature Certificate
+2 OS Operating System
+3 PKI Public Key Infrastructure (PKI) provides security
+features and is the foundation for providing trust
+and security for e-business (and other services).
+... It includes a security policy, certification
+authority, registration authority, certificate
+distribution system and PKI-enabled applications
+1.3 Disclaimer
+This may undergo changes as part of continuous improvement. Updated copy will be
+available in the portal. Visit portal for latest version of user manual.
+ System Requirement – eProcurement System 2.0
+
+2. Before you start:
+Check the followings before you start
+Step 1: OS requirement
+Windows 7, 8, 8.1 & 10.
+Step 2: Browser requirements
+
+Google Chrome Version 79 and above, Mozilla Firefox Version 71 and above & Internet
+Explorer Version 11 and above.
+Step 3: DIGITAL CERTIFICATE (DSC)
+
+Insert and Install CLASS 2 or CLASS 3 DSC with Signing & Encryption components.
+Step 4: DSC PKI COMPONENT*
+
+
+Install the PKI component in your system. To install kindly go thru the next page. You may
+also go to the Homepage and click on “Install DSC PKI Component”. You can go thru the
+manual which is available in that link.
+Step 5: WEB BROWSER SETUP
+For Firefox – Open Firefox browser, Go to URL and type https://localhost:13591 and
+add security exception to allow connections. If connection error still comes, Go to URL and
+type about:config and set value for ‘security.mixed_content.block_active_content’ to false
+and security.mixed_content.block_display_content to true.
+For Chrome - Open Chrome browser, Go to URL and type chrome://flags/#allowinsecure-localhost and click on Enable and restart Chrome to allow connections.
+For Internet Explorer 10 and above - Open IE browser, Go to URL and type
+https://localhost:13591 and add certificate to Trusted Root Certification Authorities if
+certificate error comes.
+* Disclaimer: DSC PKI component requires to run some background services in your
+respective system. These services can only be accessed over https://localhost:13591 URL
+from the browser. Hence some permission needs to be set at browser level to allow the
+browser to access the mentioned URL. Above are the web browser settings defined which
+needs to configure as per the browsers you are using. Kindly note, if you do not do these
+browser configurations, or if the PKI component is not running, you will get an error
+mentioning “Component not running” or “Certificate selection cancelled” while logging in
+into the application.”
+ System Requirement – eProcurement System 2.0
+
+3. DSC PKI Component Installation (Applet-less)
+What is an Applet-less PKI component? It is a software which enables to pick up the digital
+certificate information from your system without any dependency on Java versions and
+shows it in a pop-up box from where you will select your correct DSCs and will login/transact
+into the eProcurement application. This will not affect/restrict/alter your system or system’s
+settings to use of any other transactional websites.
+There will be 2 way of installing or executing the PKI component1. Installing the PKI component Permanently (One-Time) in the system, which will need the
+Admin right of your system (Laptop/Desktop) to install the executable programme file. This
+will help you to avoid any future installation/run of the component.
+2. Executing the PKI component Temporarily (Every time) in the system, for which admin
+right of your system is not needed. In this process you need to run a .jnlp file every-time you
+want to access the Eproc2.0 portal. Every-time you restart your system you need to
+download and run the temporary .jnlp file to run the PKI component.
+In the next pages, all the two steps has been defined with pictorial representation. Kindly go
+through the same.
+ System Requirement – eProcurement System 2.0
+
+3.1 1st way of PKI component installation permanently.
+ Click on “Install DSC PKI Component” -> “Permanent Installation”
+ Please check your computer’s system type from system properties, whether your system is
+32 bit or 64 bit, accordingly click and download the version of the PKI component from the
+dropdown.
+ Once you download the PKI component then click to install it in your system. You
+may require admin rights in your computer to install the executable file in your computer. In
+such case kindly contact your computer experts/service provider/IT team of your office
+
+
+3.2 2nd way of PKI component execution temporarily
+Kindly Note: You will NOT require any admin rights in your computer to run this file in your
+computer.
+ Click on “Install DSC PKI Component” -> “Temporary Execution”
+[PIC of Header Part]
+ Automatically the launchDomainEps.jnlp file will download in your system and give
+you a message ‘Do you to keep launch DomainEps.jnlp’.
+ Click on “Keep”
+ Then click on the downloaded launchDomainEps.jnlp file. Automatically it will run
+and it may take 20-30 secs to install successfully in your system (depending on your
+system speed), you can see the status from the Taskbar of your system. An “N”
+symbol will appear
